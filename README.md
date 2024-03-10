@@ -53,8 +53,11 @@ Follow these steps to get the ToDos project up and running on your local machine
   - The results will update in real-time.
 
 ## Screenshots
+![Screenshot 2024-03-10 234335](https://github.com/shivamkumar05/to_do/assets/114653141/878127fb-7feb-470d-8905-1e992fe15801)
 
-Include screenshots or GIFs showcasing the user interface and functionality of your ToDos app.
+![add task](https://github.com/shivamkumar05/to_do/assets/114653141/d3607903-0310-4578-a159-23b0e379117b)
+![Search task](https://github.com/shivamkumar05/to_do/assets/114653141/6406a60a-24b2-40de-b0cb-be13c52b25ee)
+
 
 ## Contributing
 If you'd like to contribute to the project, please follow the contribution guidelines.
