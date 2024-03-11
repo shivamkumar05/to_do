@@ -4,6 +4,11 @@
 
 Welcome to ToDos, a Flutter project for managing your tasks efficiently.
 
+## Project Overview
+
+ToDos is a cross-platform mobile application developed using Flutter, a UI toolkit by Google. The app provides a simple and intuitive interface to help users organize their tasks effectively. With features like adding tasks, marking tasks as done, deleting tasks, and searching for tasks, ToDos aims to streamline the task management process.
+
+
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -27,12 +32,29 @@ Welcome to ToDos, a Flutter project for managing your tasks efficiently.
 
 ## Getting Started
 
-Follow these steps to get the ToDos project up and running on your local machine.
+To run the Weather App locally, follow these steps:
 
-1. **Clone the Repository:**
+1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/todos-flutter.git
-   cd todos-flutter
+   git clone https://github.com/shivamkumar05/to_do
+   ```
+
+2. Navigate to the project directory.
+   ```bash
+   cd to_do
+   ```
+
+3. Install dependencies.
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app.
+   ```bash
+   flutter run
+   ```
+
+Ensure that you have Flutter and Dart installed on your machine before running the app.
 
 ## Usage
 
@@ -61,3 +83,9 @@ Follow these steps to get the ToDos project up and running on your local machine
 
 ## Contributing
 If you'd like to contribute to the project, please follow the contribution guidelines.
+
+## Acknowledgments
+
+Special thanks to the Flutter and Dart communities for their valuable resources and support throughout the development of this Weather App.
+
+Feel free to contribute, report issues, or suggest improvements. Happy coding!
